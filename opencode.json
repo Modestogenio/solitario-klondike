@@ -1,0 +1,11 @@
+{
+  "provider": "ollama",
+  "model": "qwen2.5:7b",
+  "temperature": 0.3,
+  "skills": [
+    "karpathy-coder",
+    "self-improving-agent",
+    "workflow-builder",
+    "behuman"
+  ]
+}
